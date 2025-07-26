@@ -1,11 +1,11 @@
-## Chocolate Sales Performance Project
+## Sales Performance Project
 
-This project analyzes chocolate product sales across multiple countries, using SQL queries to evaluate performance metrics for individual sales personnel.
+This project analyzes sales performance across multiple countries, using SQL queries to evaluate performance metrics for individual sales personnel.
 
 Data File Overview
 
-**File:** `chocolate data.sql`  
-**Database Table:** `dbo.Chocolate Chocolate`
+**File:** `Sales data.sql`  
+**Database Table:** `dbo.Sales`
 
 The SQL scripts cover:
 - Countries handled by each salesperson
